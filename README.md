@@ -1,3 +1,3 @@
-# Project name
+# 3D models viewer
 
-Description
+3D models viewer - Java
